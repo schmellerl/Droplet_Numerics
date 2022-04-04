@@ -30,3 +30,5 @@ def GshearF(psi1,psi2):
     xi2 = (1+psi2)/2
     xi3 = (1+psi3)/2
     return  (xi1*G1 + xi2*G2 + xi3*G3)
+
+filepath = '/content/drive/MyDrive/ColabNumerics/Results_2'
