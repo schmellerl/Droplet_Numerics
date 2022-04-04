@@ -8,10 +8,6 @@ G1    = 1          # elastic modulus solig
 G2    = 0.03       # elastic modulus liquid
 G3    = 0.03       # elastic modulus air
 
-#gamma1  = 0.06     # surface tension solig
-#gamma2  = 0.03     # surface tension liquid
-#gamma3  = 2.24     # surface tension air 
-
 gamma1 = 0.21
 gamma2 = 0.51
 gamma3 = 0.41
@@ -20,7 +16,7 @@ m       = 1e-6     # Cahn-Hilliard mobility
 mu      = 1        # Solid Stokes viscosity 
 
 h0      = 1        # substrate height 
-h1      = 0.36     # fluid height
+h1      = 0.26     # fluid height
 
 H1      = 2
 
