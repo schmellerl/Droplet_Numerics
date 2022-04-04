@@ -1,4 +1,4 @@
-# Droplet_Numerics
+# Droplet Numerics
 
  
 **Three Phase system, Stokes dissipation, no phase-field evolution**
